@@ -5,7 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezao244&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   I'm currently studying web development with stack JavaScript, React, NodeJs e PHP  <br>
-  - 🔭 I’m currently working on Booster3
   <br>
   <br>
   <div style="display: inline_block"><br>
