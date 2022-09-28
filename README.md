@@ -1,4 +1,5 @@
-### Olá, eu sou Bernardo Afonso, desenvolvedor fullstack Angular/ .NET na Gerenciar Sistemas Corporativos.
+### Olá, eu sou Bernardo Afonso, tenho 17 anos e sou desenvolvedor na Gerenciar Sistemas Corporativos.
+## Trabalhando com Angular, .NET no dia a dia.
 <div align="center" style="display: flex;">
   <a href="https://github.com/bezao244">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bezao244&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
