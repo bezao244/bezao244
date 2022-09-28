@@ -1,10 +1,10 @@
-### Hi, I'm Bernardo Afonso Nascimento Silva
+### Olá, eu sou Bernardo Afonso, desenvolvedor fullstack Angular/ .NET na Gerenciar Sistemas Corporativos.
 <div align="center" style="display: flex;">
   <a href="https://github.com/bezao244">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bezao244&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezao244&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  I'm currently studying Angular, Typescript and NodeJs  <br>
+  I'm currently studying Angular and Javascript  <br>
   <br>
   <br>
   <div style="display: inline_block"><br>
