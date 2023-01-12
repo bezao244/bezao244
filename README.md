@@ -1,4 +1,4 @@
-### Olá, eu sou Bernardo Afonso, tenho 17 anos e sou desenvolvedor na Gerenciar Sistemas Corporativos.
+### Olá, eu sou Bernardo Afonso, tenho 18 anos e sou desenvolvedor na Gerenciar Sistemas Corporativos.
 #### Trabalhando com Angular e .NET no dia a dia.
 <div align="center" style="display: flex;">
   <a href="https://github.com/bezao244">
