@@ -7,12 +7,12 @@
 </div>
   
  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <p align="center" style="display: flex">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,angular,cs,dotnet,visualstudio,vscode,git" />
+    <img width="50px" height="50px" src="https://p1.hiclipart.com/preview/751/1012/37/10-icon-simple-style-png-icns-qbittorrent-icon-png-icon.jpg">
+  </a>
+</p>
 <!--
 
 **bezao244/bezao244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
