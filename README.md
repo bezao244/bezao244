@@ -9,7 +9,7 @@
  
   <p align="center" style="display: flex">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,angular,cs,dotnet,visualstudio,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,angular,cs,dotnet,visualstudio,vscode,git,linux,docker,electron,py" />
     <img width="50px" height="50px" src="https://p1.hiclipart.com/preview/751/1012/37/10-icon-simple-style-png-icns-qbittorrent-icon-png-icon.jpg">
   </a>
 </p>
