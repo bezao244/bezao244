@@ -8,7 +8,7 @@ Hello! I'm a passionate **19-year-old Full Stack Developer** with a knack for cr
  
   <p align="center" style="display: flex">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,angular,cs,dotnet,visualstudio,vscode,git,linux,docker,electron,py,redis,mongodb,mysql,reactivex,postman,npm,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,ts,angular,cs,dotnet,visualstudio,vscode,git,linux,docker,electron,py,redis,mongodb,mysql,reactivex,postman,npm,bootstrap,arduino" />
 <!--     //<img width="50px" height="50px" src="https://p1.hiclipart.com/preview/751/1012/37/10-icon-simple-style-png-icns-qbittorrent-icon-png-icon.jpg"> -->
   </a>
 </p>
